@@ -1,4 +1,4 @@
-FROM telethonArab/Arab:slim-buster
+FROM kraar200/Arab:slim-buster
 
 RUN git clone https://github.com/kraar200/Arab.git /root/Arab
 
